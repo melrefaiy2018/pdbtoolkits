@@ -1,6 +1,6 @@
 # pdb-toolKits
 
-A comprehensive collection of Python tools for working with PDB (Protein Data Bank) files. This toolkit provides utilities for structural alignment, analysis, and visualization of molecular structures.
+A comprehensive collection of Python tools for working with PDB (Protein Data Bank) files. This toolkit provides utilities for structural alignment, analysis, visualization of molecular structures and other useful capapilities that would be released soon.
 
 ## Features
 
@@ -71,7 +71,6 @@ pdb-toolKits/
 ├── pdbtoolkits/            # Main package
 │   ├── alignment/          # Alignment tools
 │   ├── visualization/      # Visualization tools
-│   └── common/             # Common utilities
 ├── tests/                  # Test directory
 └── docs/                   # Documentation
 ```
