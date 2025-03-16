@@ -1,0 +1,137 @@
+HETATM 9938  MG  CLA A 602     -47.572  41.688 -37.624                      Mg   None       COFA  
+HETATM 9939  CHA CLA A 602     -50.180  44.024 -37.308                      C    None       COFA  
+HETATM 9940  CHB CLA A 602     -46.520  42.520 -34.448                      C    None       COFA  
+HETATM 9941  HHB CLA A 602     -46.085  42.882 -33.524                      H    None       COFA  
+HETATM 9942  CHC CLA A 602     -45.224  39.224 -37.844                      C    None       COFA  
+HETATM 9943  HHC CLA A 602     -44.452  38.464 -37.925                      H    None       COFA  
+HETATM 9944  CHD CLA A 602     -48.860  40.816 -40.720                      C    None       COFA  
+HETATM 9945  HHD CLA A 602     -49.311  40.474 -41.646                      H    None       COFA  
+HETATM 9946  NA  CLA A 602     -48.272  43.068 -36.084                      N    None       COFA  
+HETATM 9947  C1A CLA A 602     -49.376  43.904 -36.160                      C    None       COFA  
+HETATM 9948  C2A CLA A 602     -49.532  44.668 -34.856                      C    None       COFA  
+HETATM 9949  H2A CLA A 602     -49.643  45.754 -35.068                      H    None       COFA  
+HETATM 9950  C3A CLA A 602     -48.216  44.460 -34.160                      C    None       COFA  
+HETATM 9951  H3A CLA A 602     -48.377  44.192 -33.091                      H    None       COFA  
+HETATM 9952  C4A CLA A 602     -47.608  43.272 -34.892                      C    None       COFA  
+HETATM 9953  CMA CLA A 602     -47.352  45.716 -34.216                      C    None       COFA  
+HETATM 9954 HMA1 CLA A 602     -47.740  46.506 -33.547                      H    None       COFA  
+HETATM 9955 HMA2 CLA A 602     -47.301  46.070 -35.271                      H    None       COFA  
+HETATM 9956 HMA3 CLA A 602     -46.318  45.447 -33.923                      H    None       COFA  
+HETATM 9957  CAA CLA A 602     -50.752  44.240 -34.016                      C    None       COFA  
+HETATM 9958 HAA1 CLA A 602     -51.632  44.673 -34.553                      H    None       COFA  
+HETATM 9959 HAA2 CLA A 602     -50.708  44.783 -33.047                      H    None       COFA  
+HETATM 9960  CBA CLA A 602     -51.156  42.780 -33.772                      C    None       COFA  
+HETATM 9961 HBA1 CLA A 602     -51.067  42.194 -34.706                      H    None       COFA  
+HETATM 9962 HBA2 CLA A 602     -52.205  42.740 -33.424                      H    None       COFA  
+HETATM 9963  CGA CLA A 602     -50.296  42.168 -32.692                      C    None       COFA  
+HETATM 9964  O1A CLA A 602     -50.236  42.716 -31.592                      O    None       COFA  
+HETATM 9965  O2A CLA A 602     -49.508  40.988 -32.928                      O    None       COFA  
+HETATM 9966  NB  CLA A 602     -46.184  40.944 -36.340                      N    None       COFA  
+HETATM 9967  C1B CLA A 602     -45.876  41.456 -35.096                      C    None       COFA  
+HETATM 9968  C2B CLA A 602     -44.768  40.712 -34.536                      C    None       COFA  
+HETATM 9969  C3B CLA A 602     -44.376  39.796 -35.468                      C    None       COFA  
+HETATM 9970  C4B CLA A 602     -45.264  39.956 -36.636                      C    None       COFA  
+HETATM 9971  CMB CLA A 602     -44.188  40.972 -33.124                      C    None       COFA  
+HETATM 9972 HMB1 CLA A 602     -44.696  40.329 -32.375                      H    None       COFA  
+HETATM 9973 HMB2 CLA A 602     -44.333  42.036 -32.842                      H    None       COFA  
+HETATM 9974 HMB3 CLA A 602     -43.096  40.773 -33.108                      H    None       COFA  
+HETATM 9975  CAB CLA A 602     -43.316  38.900 -35.016                      C    None       COFA  
+HETATM 9976  HAB CLA A 602     -43.192  38.773 -33.929                      H    None       COFA  
+HETATM 9977  CBB CLA A 602     -42.536  38.152 -35.808                      C    None       COFA  
+HETATM 9978 HBB1 CLA A 602     -42.636  38.202 -36.899                      H    None       COFA  
+HETATM 9979 HBB2 CLA A 602     -41.782  37.477 -35.371                      H    None       COFA  
+HETATM 9980  NC  CLA A 602     -47.120  40.272 -39.048                      N    None       COFA  
+HETATM 9981  C1C CLA A 602     -46.088  39.356 -38.960                      C    None       COFA  
+HETATM 9982  C2C CLA A 602     -46.064  38.556 -40.176                      C    None       COFA  
+HETATM 9983  C3C CLA A 602     -47.092  38.988 -40.964                      C    None       COFA  
+HETATM 9984  C4C CLA A 602     -47.756  40.064 -40.260                      C    None       COFA  
+HETATM 9985  CMC CLA A 602     -45.120  37.412 -40.596                      C    None       COFA  
+HETATM 9986 HMC1 CLA A 602     -45.671  36.453 -40.545                      H    None       COFA  
+HETATM 9987 HMC2 CLA A 602     -44.260  37.379 -39.898                      H    None       COFA  
+HETATM 9988 HMC3 CLA A 602     -44.754  37.584 -41.628                      H    None       COFA  
+HETATM 9989  CAC CLA A 602     -47.500  38.468 -42.376                      C    None       COFA  
+HETATM 9990 HAC1 CLA A 602     -46.585  38.175 -42.936                      H    None       COFA  
+HETATM 9991 HAC2 CLA A 602     -47.987  39.292 -42.941                      H    None       COFA  
+HETATM 9992  CBC CLA A 602     -48.440  37.280 -42.288                      C    None       COFA  
+HETATM 9993 HBC1 CLA A 602     -49.370  37.565 -41.750                      H    None       COFA  
+HETATM 9994 HBC2 CLA A 602     -47.959  36.442 -41.739                      H    None       COFA  
+HETATM 9995 HBC3 CLA A 602     -48.716  36.928 -43.305                      H    None       COFA  
+HETATM 9996  ND  CLA A 602     -49.056  42.352 -38.840                      N    None       COFA  
+HETATM 9997  C1D CLA A 602     -49.480  41.892 -40.068                      C    None       COFA  
+HETATM 9998  C2D CLA A 602     -50.624  42.680 -40.544                      C    None       COFA  
+HETATM 9999  C3D CLA A 602     -50.912  43.544 -39.520                      C    None       COFA  
+HETATM10000  C4D CLA A 602     -49.972  43.292 -38.472                      C    None       COFA  
+HETATM10001  CMD CLA A 602     -51.372  42.548 -41.880                      C    None       COFA  
+HETATM10002 HMD1 CLA A 602     -50.915  41.748 -42.493                      H    None       COFA  
+HETATM10003 HMD2 CLA A 602     -51.330  43.508 -42.431                      H    None       COFA  
+HETATM10004 HMD3 CLA A 602     -52.436  42.297 -41.686                      H    None       COFA  
+HETATM10005  CAD CLA A 602     -51.804  44.580 -39.040                      C    None       COFA  
+HETATM10006  OBD CLA A 602     -52.780  45.132 -39.556                      O    None       COFA  
+HETATM10007  CBD CLA A 602     -51.364  44.956 -37.596                      C    None       COFA  
+HETATM10008 HBD1 CLA A 602     -52.204  44.820 -36.913                      H    None       COFA  
+HETATM10009  CGD CLA A 602     -50.960  46.452 -37.544                      C    None       COFA  
+HETATM10010  O1D CLA A 602     -51.776  47.248 -37.080                      O    None       COFA  
+HETATM10011  O2D CLA A 602     -49.644  46.820 -37.984                      O    None       COFA  
+HETATM10012  CED CLA A 602     -49.028  48.040 -37.644                      C    None       COFA  
+HETATM10013 HED1 CLA A 602     -49.541  48.537 -36.788                      H    None       COFA  
+HETATM10014 HED2 CLA A 602     -49.049  48.742 -38.508                      H    None       COFA  
+HETATM10015 HED3 CLA A 602     -47.961  47.860 -37.376                      H    None       COFA  
+HETATM10016  C1  CLA A 602     -48.428  40.716 -31.988                      C    None       COFA  
+HETATM10017  H1  CLA A 602     -48.804  40.651 -30.938                      H    None       COFA  
+HETATM10018  H2  CLA A 602     -47.692  41.552 -32.025                      H    None       COFA  
+HETATM10019  C2  CLA A 602     -47.796  39.536 -32.392                      C    None       COFA  
+HETATM10020  H3  CLA A 602     -47.822  39.422 -33.489                      H    None       COFA  
+HETATM10021  C3  CLA A 602     -47.060  38.560 -31.736                      C    None       COFA  
+HETATM10022  C4  CLA A 602     -46.736  38.560 -30.224                      C    None       COFA  
+HETATM10023  H5  CLA A 602     -47.647  38.338 -29.627                      H    None       COFA  
+HETATM10024  H6  CLA A 602     -46.364  39.556 -29.898                      H    None       COFA  
+HETATM10025  H7  CLA A 602     -45.973  37.804 -29.953                      H    None       COFA  
+HETATM10026  C5  CLA A 602     -46.624  37.404 -32.648                      C    None       COFA  
+HETATM10027  H8  CLA A 602     -45.828  37.822 -33.312                      H    None       COFA  
+HETATM10028  H9  CLA A 602     -47.460  37.137 -33.339                      H    None       COFA  
+HETATM10029  C6  CLA A 602     -46.080  36.092 -32.136                      C    None       COFA  
+HETATM10030  H10 CLA A 602     -45.430  36.258 -31.254                      H    None       COFA  
+HETATM10031  H11 CLA A 602     -45.402  35.752 -32.954                      H    None       COFA  
+HETATM10032  C7  CLA A 602     -47.088  35.028 -31.776                      C    None       COFA  
+HETATM10033  H12 CLA A 602     -48.051  35.283 -32.274                      H    None       COFA  
+HETATM10034  H13 CLA A 602     -47.277  34.973 -30.682                      H    None       COFA  
+HETATM10035  C8  CLA A 602     -46.564  33.716 -32.328                      C    None       COFA  
+HETATM10036  H14 CLA A 602     -45.757  33.937 -33.069                      H    None       COFA  
+HETATM10037  C9  CLA A 602     -45.932  32.732 -31.360                      C    None       COFA  
+HETATM10038  H15 CLA A 602     -46.571  31.860 -31.131                      H    None       COFA  
+HETATM10039  H16 CLA A 602     -45.698  33.234 -30.398                      H    None       COFA  
+HETATM10040  H17 CLA A 602     -44.984  32.332 -31.783                      H    None       COFA  
+HETATM10041  C10 CLA A 602     -47.620  32.956 -33.084                      C    None       COFA  
+HETATM10042  H18 CLA A 602     -48.628  33.405 -32.944                      H    None       COFA  
+HETATM10043  H19 CLA A 602     -47.680  31.905 -32.718                      H    None       COFA  
+HETATM10044  C11 CLA A 602     -47.232  32.952 -34.536                      C    None       COFA  
+HETATM10045  H20 CLA A 602     -46.157  32.742 -34.719                      H    None       COFA  
+HETATM10046  H21 CLA A 602     -47.504  33.930 -34.994                      H    None       COFA  
+HETATM10047  C12 CLA A 602     -48.068  31.796 -35.012                      C    None       COFA  
+HETATM10048  H22 CLA A 602     -48.976  31.626 -34.388                      H    None       COFA  
+HETATM10049  H23 CLA A 602     -47.460  30.864 -34.975                      H    None       COFA  
+HETATM10050  C13 CLA A 602     -48.524  32.112 -36.404                      C    None       COFA  
+HETATM10051  H24 CLA A 602     -47.853  32.946 -36.765                      H    None       COFA  
+HETATM10052  C14 CLA A 602     -49.904  32.776 -36.480                      C    None       COFA  
+HETATM10053  H25 CLA A 602     -49.937  33.668 -35.819                      H    None       COFA  
+HETATM10054  H26 CLA A 602     -50.691  32.062 -36.158                      H    None       COFA  
+HETATM10055  H27 CLA A 602     -50.128  33.101 -37.517                      H    None       COFA  
+HETATM10056  C15 CLA A 602     -48.076  30.984 -37.316                      C    None       COFA  
+HETATM10057  H28 CLA A 602     -48.523  30.063 -36.886                      H    None       COFA  
+HETATM10058  H29 CLA A 602     -46.971  30.859 -37.254                      H    None       COFA  
+HETATM10059  C16 CLA A 602     -48.512  31.040 -38.756                      C    None       COFA  
+HETATM10060  H30 CLA A 602     -49.580  31.324 -38.854                      H    None       COFA  
+HETATM10061  H31 CLA A 602     -48.412  30.006 -39.169                      H    None       COFA  
+HETATM10062  C17 CLA A 602     -47.624  31.944 -39.584                      C    None       COFA  
+HETATM10063  H32 CLA A 602     -46.577  31.820 -39.217                      H    None       COFA  
+HETATM10064  H33 CLA A 602     -47.907  33.002 -39.436                      H    None       COFA  
+HETATM10065  C18 CLA A 602     -47.648  31.616 -41.060                      C    None       COFA  
+HETATM10066  H34 CLA A 602     -47.522  30.511 -41.182                      H    None       COFA  
+HETATM10067  C19 CLA A 602     -48.924  32.044 -41.784                      C    None       COFA  
+HETATM10068  H35 CLA A 602     -49.039  33.147 -41.733                      H    None       COFA  
+HETATM10069  H36 CLA A 602     -49.817  31.570 -41.324                      H    None       COFA  
+HETATM10070  H37 CLA A 602     -48.876  31.738 -42.851                      H    None       COFA  
+HETATM10071  C20 CLA A 602     -46.420  32.296 -41.644                      C    None       COFA  
+HETATM10072  H38 CLA A 602     -45.495  31.953 -41.134                      H    None       COFA  
+HETATM10073  H39 CLA A 602     -46.495  33.399 -41.532                      H    None       COFA  
+HETATM10074  H40 CLA A 602     -46.324  32.061 -42.727                      H    None       COFA
