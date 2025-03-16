@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "path": "CLA_602_reference.pdb",
+      "display_name": "Reference",
+      "representation": [
+        {
+          "type": "licorice",
+          "params": {
+            "colorScheme": "element",
+            "colorValue": "#2E86C1",
+            "radius": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "path": "aligned_output.pdb",
+      "display_name": "Aligned",
+      "representation": [
+        {
+          "type": "licorice",
+          "params": {
+            "colorScheme": "element",
+            "colorValue": "#E74C3C",
+            "radius": 0.3
+          }
+        }
+      ]
+    }
+  ],
+  "stage_params": {
+    "backgroundColor": "white"
+  }
+}
