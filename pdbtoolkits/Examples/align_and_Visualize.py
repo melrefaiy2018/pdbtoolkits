@@ -5,7 +5,7 @@ and generate visualization configuration.
 
 Usage:
   python align_and_visualize.py reference.pdb target.pdb --output aligned.pdb
-  python align_and_Visualize.py CLA_602_mcce.pdb CLA_602_frank.pdb --output CLA_602_frank_aligned.pdb
+  python align_and_Visualize.py CLA_602_reference.pdb CLA_602_target.pdb --output aligned_CLA_602_target.pdb
 """
 
 import argparse
@@ -66,7 +66,7 @@ def main():
         print("\nAtom Mapping Summary:")
         print(f"{'Reference':<30} {'Target':<30}")
         print("-" * 60)
-        for mapping in atom_mapping[:10]:  # Show first 10 mappings
+        for mapping in atom_mapping[:20]:  # Show first 10 mappings
             ref_str = f"{mapping['ref_atom_name']} ({mapping['ref_element']}) {mapping['ref_residue']} {mapping['ref_residue_number']}"
             target_str = f"{mapping['target_atom_name']} ({mapping['target_element']}) {mapping['target_residue']} {mapping['target_residue_number']}"
             print(f"{ref_str:<30} {target_str:<30}")
