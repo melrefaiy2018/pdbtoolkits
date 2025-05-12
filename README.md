@@ -12,7 +12,7 @@ A comprehensive collection of Python tools for working with PDB (Protein Data Ba
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdb-toolKits.git
+git clone https://github.com/melrefaiy2018/pdb-toolKits.git
 cd pdb-toolKits
 
 # Install dependencies
